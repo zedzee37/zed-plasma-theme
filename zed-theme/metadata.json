@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "carsonuderitz@gmail.com",
+                "Name": "Zedzee"
+            }
+        ],
+        "Category": "",
+        "Description": "Zed Theme",
+        "EnabledByDefault": false,
+        "Id": "default",
+        "License": "LGPL",
+        "Name": "Zed Theme",
+        "Version": "6.18.0",
+        "Website": "https://www.kde.org/"
+    },
+    "X-Plasma-API": "5.0"
+}
